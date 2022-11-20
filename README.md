@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @Jayaraj
+- 👀 I’m interested in new things to learn ...
+- 🌱 I’m currently learning ...
+- 📫 How to reach me ...
+
+<!---
+Jayaraj1003/Jayaraj1003 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
